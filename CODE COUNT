@@ -1,4 +1,5 @@
 BillActivity.java:
+Nicole:40
 
 
 CalendarActivity.java: NONE/Commented all out
@@ -6,15 +7,15 @@ CalendarActivity.java: NONE/Commented all out
 
 
 GroupActivity.java:
-
+Nicole: 26
 
 
 HomeActivity.java:
-
+Nicole: 26
 
 
 LoginActivity.java:
-
+Nicole: 32
 
 
 MainActivity.java:
@@ -22,16 +23,14 @@ MainActivity.java:
 
 
 RegisterActivity.java:
-
+Nicole: 65
 
 
 SettingsActivity.java:
-
+Nicole: 14
 
 ViewBillActivity.java:
 
-
-PayBillActivity.java 
 
 
 Bill.java:
