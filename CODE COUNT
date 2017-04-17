@@ -1,6 +1,7 @@
 BillActivity.java:
 Nicole:40
 Austin: 87
+Nick: 3
 
 
 CalendarActivity.java: NONE/Commented all out
@@ -9,6 +10,7 @@ CalendarActivity.java: NONE/Commented all out
 GroupActivity.java:
 Nicole: 26
 Austin: 34
+Nick: 138
 
 HomeActivity.java:
 Nicole: 34
@@ -18,6 +20,7 @@ Austin: 40
 LoginActivity.java:
 Nicole: 32
 Austin: 54
+Nick: 6
 
 
 MainActivity.java:
@@ -40,6 +43,7 @@ Robert: 145
 
 Bill.java:
 Austin: 50
+Nick: 1
 
 
 BillManager.java:
@@ -48,9 +52,11 @@ Austin: 21;
 
 Group.java:
 Austin: 10
-
+Nick: 34
 
 Roommate.java:
 Austin: 16
 
+SQLConnection.Java
+Nick: 20
 
